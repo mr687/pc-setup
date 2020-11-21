@@ -1,0 +1,7 @@
+[user]
+	email = davinomoehdanino@gmail.com
+	name = mr687
+[core]
+	editor = code -w
+[merge]
+	tool = code
